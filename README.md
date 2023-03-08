@@ -1,2 +1,3 @@
-# wow-scripts
-collection of usefull wow scripts which has to be pasted in the Chat
+# WoW-Scripts
+
+Collection of usefull wow scripts which has to be pasted in the Chat
