@@ -8,12 +8,12 @@ Skip Start Tutorial or Class Trial Turtorial
 
 Disable DMG Numbers in Interface
 --------------------------------
-``
+```
 /console floatingCombatTextCombatDamage 0
-``
+```
 
 Enable DMG Number in Interface
 ------------------------------
-``
+```
 /console floatingCombatTextCombatDamage 1
-``
+```
