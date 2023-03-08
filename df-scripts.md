@@ -1,4 +1,4 @@
-# Usefull Scripts for dragonflight
+# Usefull Scripts for Dragonflight
 
 Shows how many charges you have for the catalyst: 
 -------------------------------------------------
